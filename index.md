@@ -1,6 +1,6 @@
 ## Benvenuto nella mia pagina ospitata su GitHub
 
-Sono Tonino il proprietario del dominio [comania.it](https://www.comania.it)
+Sono Tonino il proprietario del dominio [comania.it](www.comania.it)
 
 ### Contatti
 
