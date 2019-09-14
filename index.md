@@ -8,6 +8,6 @@ Development *Android*
 ------------
 
 ### Contacts
-For any request do not hesitate to contact me **tonino77 (AT) gmail (DOT) com**
+For any request do not hesitate to contact me `tonino77 (AT) gmail (DOT) com`
 
 My page [**Linkedin**](https://www.linkedin.com/in/chiaia/)
