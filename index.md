@@ -4,6 +4,7 @@ Welcome to my page hosted on GitHub
 ===================================
 
 I am Tonino, the owner of the `comania.it` domain.
+
 Development *Android*
 
 ------------
@@ -21,6 +22,7 @@ Benvenuto nella mia pagina ospitata su GitHub
 =============================================
 
 Sono Tonino, il proprietario del dominio `comania.it`.
+
 Sviluppo *Android*
 
 ------------
