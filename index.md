@@ -3,8 +3,8 @@
 Welcome to my page hosted on GitHub
 ===================================
 
-I am Tonino, the owner of the `comania.it` domain
- development *Android*
+I am Tonino, the owner of the `comania.it` domain.
+Development *Android*
 
 ------------
 
@@ -20,8 +20,8 @@ ___________________________________________________________________________
 Benvenuto nella mia pagina ospitata su GitHub
 =============================================
 
-Sono Tonino, il proprietario del dominio `comania.it`
- sviluppo *Android*
+Sono Tonino, il proprietario del dominio `comania.it`.
+Sviluppo *Android*
 
 ------------
 
