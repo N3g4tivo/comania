@@ -15,7 +15,9 @@ My page [**Linkedin**](https://www.linkedin.com/in/chiaia/)
 
 ___________________________________________________________________________
 ___________________________________________________________________________
-
+.
+.
+.
 > Versione Italiana
 
 Benvenuto nella mia pagina ospitata su GitHub
